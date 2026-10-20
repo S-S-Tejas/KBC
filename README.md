@@ -1,2 +1,2 @@
-# KBC
-Just a made a simple KBC type quiz using Python
+# Python programs
+The programs I make will be here!
